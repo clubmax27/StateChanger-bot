@@ -30,5 +30,6 @@ client.on('message', function(msg)
     {
       console.log(msg.author + " is doing type " + msg.author.presence.game.type + " on the game '" + msg.author.presence.game.name + "'");
     }
+    else console.log(msg.author + " isn't doing anything");
   }
 });
