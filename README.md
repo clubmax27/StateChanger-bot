@@ -1,9 +1,9 @@
 # StateChanger-bot
-A selfbot for discord for changing your presence, with discord.js
-
-Usage : StateChanger [Type] [name of the activity]
-Type can go from 0 to 3, and means :
-0 : Playing
-1 : Streaming
-2 : Listening
-3 : watching
+A selfbot for discord for changing your presence, with discord.js\n
+\n
+Usage : StateChanger [Type] [name of the activity]\n
+Type can go from 0 to 3, and means :\n
+0 : Playing\n
+1 : Streaming\n
+2 : Listening\n
+3 : watching\n
