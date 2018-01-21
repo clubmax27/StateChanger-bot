@@ -1,4 +1,4 @@
-# StateChanger-bot
+# A selfbot to change your discord Activity/Presence
 A selfbot for discord for changing your presence, with discord.js<br/>
 <br/>
 Usage : StateChanger [Type] [name of the activity]<br/>
