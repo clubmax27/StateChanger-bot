@@ -1,11 +1,11 @@
-# A selfbot to change your discord Activity/Presence
+<img src="https://cdn.discordapp.com/attachments/327825953965342720/405094209260093440/unknown.png" width="150"></img>
 <h1>About</h1>
 A selfbot for discord for changing your presence, with discord.js<br/>
 <br/>
 <h2>Installation</h2>
 First, if you don't have node.js installed, download and install it from there : https://nodejs.org/en/download/<br/>
 Then, download the code from this github page, extract the .zip file in your desktop or somewhere you will remember<br/>
-Finally, do a <b>[SHIFT] + [RIGHT_CLICK]</b> in this bot's folder, and select <b>"Open powershell here"</b>, and type the command <b>"node .\\bot.js"</b><br/>
+Finally, do a <b>[SHIFT] + [RIGHT_CLICK]</b> in this bot's folder, and select <b>"Open powershell here"</b>, and type the command <b>"node .\bot.js"</b><br/>
 If you close the powershell, the selfbot will stop. To solve this problem, go to the <b>"Run forever the bot"</b> section of this README<br/>
 <br/>
 <h2>Usage</h2>
