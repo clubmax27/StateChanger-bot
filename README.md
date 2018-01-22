@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/327825953965342720/405094209260093440/unknown.png" width="150"></img>
+<img src="https://cdn.discordapp.com/attachments/327825953965342720/405094209260093440/unknown.png" width="600"></img>
 <h1>About</h1>
 A selfbot for discord for changing your presence, with discord.js<br/>
 <br/>
