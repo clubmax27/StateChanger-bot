@@ -17,10 +17,10 @@ This command changes your activity<br/>
 0 : Playing<br/>
 1 : Streaming<br/>
 2 : Listening<br/>
-3 : watching<br/>
+3 : Watching<br/>
 <br/>
 <b>StateChanger Status</b><br/>
 This command prints the author's activity in the console<br/>
 <br/>
 <h2>Run forever the bot</h2>
-To run forever the bot, instead of running "node .\\bot.js", you can run "node ;\\forever.js"
+To run forever the bot, instead of running "node .\bot.js", you can run "node .\forever.js"
