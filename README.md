@@ -12,7 +12,7 @@ If you close the powershell, the selfbot will stop. To solve this problem, go to
 <h2>Usage</h2>
 Commands :<br/>
 <br/>
-<b>StateChanger Changer [Type] [name of the activity]</b><br/>
+<b>StateChanger Change [Type] [name of the activity]</b><br/>
 This command changes your activity<br/>
 <b>Type</b> can go from 0 to 3, and means :<br/>
 0 : Playing<br/>
